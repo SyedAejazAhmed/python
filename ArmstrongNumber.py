@@ -11,6 +11,6 @@ while(num>0):
     sum = sum + rem**n
     num = num//10
 if (temp == sum):
-    print("%d is an Armstring number"%(sum))
+    print("%d is an Armstrong number"%(sum))
 else:
     print("%d is not an Armstrong Number"%(sum))
