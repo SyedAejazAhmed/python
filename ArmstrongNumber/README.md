@@ -1,11 +1,11 @@
-## Armstrong Number Checker
+# Armstrong Number Checker
 This repository contains a Python script to check whether a given number is an Armstrong number. An Armstrong number (also known as a narcissistic number) is a number that is equal to the sum of its own digits each raised to the power of the number of digits.
 
 Clone the repository: 'https://github.com/SyedAejazAhmed/python/tree/main/ArmstrongNumber'
 
-## Code Explanation
+# Code Explanation
 
-# The script checks whether a given number is an Armstrong number by following these steps:
+## The script checks whether a given number is an Armstrong number by following these steps:
 1. Prompt the user to input a number.
 2. Initialize variables to store the sum of powers of digits, a temporary copy of the input number, and the number of digits.
 3. Calculate the number of digits in the input number.
