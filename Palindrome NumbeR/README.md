@@ -1,6 +1,4 @@
-# Palindrome Number
-
-## Palindrome Number Checker
+# Palindrome Number Checker
 This repository contains a simple Python script to check if a given number is a palindrome. A palindrome number is a number that remains the same when its digits are reversed.
 
 ## How it Works
