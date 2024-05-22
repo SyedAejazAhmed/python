@@ -6,9 +6,9 @@ The script takes a number as input from the user and checks whether it is a pali
 
 ## Usage
 Clone this repository to your local machine.
-    ```bash
-    git clone https://github.com/SyedAejazAhmed/python.git
-    ```
+```bash
+git clone https://github.com/SyedAejazAhmed/python.git
+```
     
 ## Contributing
 Feel free to contribute to this project by opening issues or submitting pull requests. For major changes, please open an issue first to discuss what you would like to change.
