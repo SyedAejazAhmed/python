@@ -10,7 +10,9 @@ This repository contains a simple text-based chatbot implemented in Python. The 
 5. Offers assistance when asked for help
 6. Provides a default message for unrecognized inputs
 
-Clone the repository: 'https://github.com/SyedAejazAhmed/python/tree/main/Chat_Bot'
+Clone the repository: 
+``bash
+git clone https://github.com/SyedAejazAhmed/python.git```
 
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes or improvements.
