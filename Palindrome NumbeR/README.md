@@ -8,6 +8,7 @@ The script takes a number as input from the user and checks whether it is a pali
 Clone this repository to your local machine.
 ```bash
 git clone https://github.com/SyedAejazAhmed/python.git
+cd Palindrome NumbeR
 ```
     
 ## Contributing
