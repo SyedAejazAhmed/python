@@ -13,6 +13,7 @@ This repository contains a simple text-based chatbot implemented in Python. The 
 Clone the repository: 
 ```bash
 git clone https://github.com/SyedAejazAhmed/python.git
+cd Chat_Bot
 ```
 
 ## Contributing
