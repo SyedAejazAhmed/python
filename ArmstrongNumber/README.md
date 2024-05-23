@@ -4,6 +4,7 @@ This repository contains a Python script to check whether a given number is an A
 Clone the repository: 
 ```bash
 git clone https://github.com/SyedAejazAhmed/python.git
+cd ArmstrongNumber
 ```
 
 # Code Explanation
