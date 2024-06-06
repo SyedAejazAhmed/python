@@ -7,16 +7,16 @@ git clone https://github.com/SyedAejazAhmed/python.git
 cd ArmstrongNumber
 ```
 
-# Code Explanation
+## Code Explanation
 
-## The script checks whether a given number is an Armstrong number by following these steps:
+### The script checks whether a given number is an Armstrong number by following these steps:
 1. Prompt the user to input a number.
 2. Initialize variables to store the sum of powers of digits, a temporary copy of the input number, and the number of digits.
 3. Calculate the number of digits in the input number.
 4. Calculate the sum of each digit raised to the power of the total number of digits.
 5. Compare the calculated sum with the original number to determine if it is an Armstrong number.
 
-## How it Works
+### How it Works
 1. The user inputs a number.
 2. The number of digits (n) in the input number is calculated.
 3. The script computes the sum of each digit raised to the power of n.
