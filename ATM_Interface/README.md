@@ -77,3 +77,5 @@ Special thanks to the open-source community and everyone who provided support an
 
 ## Contact
 If you have any questions, feel free to reach out:
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/aejazahmed2006/)
+- Github: [Github Profile](https://github.com/SyedAejazAhmed)
