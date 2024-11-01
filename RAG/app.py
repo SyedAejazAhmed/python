@@ -64,7 +64,7 @@ def answer_query(query):
     return answer, source_pdf, actual_page_number
 
 def main():
-    st.title("PDF Question-Answering System")
+    st.title("SEC-Saudi Electricity Company")
     
     query = st.text_input("Enter your question about the PDF:")
 
@@ -73,7 +73,9 @@ def main():
         st.write("### Answer:")
         st.write(answer)
         st.write("### Source:")
-        st.write(f"Source PDF: {source_pdf}, Page Number: {actual_page_number}")
+        st.write(f"Source PDF: {source_pdf}")
+        st.write(f"Page Number: {actual_page_number}")
 
 if __name__ == "__main__":
     main()
+
